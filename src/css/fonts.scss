@@ -1,0 +1,43 @@
+@font-face {
+    font-weight: 400;
+    font-style: normal;
+    font-family: "CormorantInfant";
+    font-display: swap;
+    src:
+        local("CormorantInfant Regular"),
+        url("../fonts/CormorantInfant-Regular.woff2") format("woff2"),
+        url("../fonts/CormorantInfant-Regular.woff") format("woff");
+}
+
+@font-face {
+    font-weight: 700;
+    font-style: normal;
+    font-family: "CormorantInfant";
+    font-display: swap;
+    src:
+        local("CormorantInfant Bold"),
+        url("../fonts/CormorantInfant-Bold.woff2") format("woff2"),
+        url("../fonts/CormorantInfant-Bold.woff") format("woff");
+}
+
+@font-face {
+    font-weight: 400;
+    font-style: normal;
+    font-family: "Raleway";
+    font-display: swap;
+    src:
+        local("Raleway Regular"),
+        url("../fonts/Raleway-Regular.woff2") format("woff2"),
+        url("../fonts/Raleway-Regular.woff") format("woff");
+}
+
+@font-face {
+    font-weight: 700;
+    font-style: normal;
+    font-family: "Raleway";
+    font-display: swap;
+    src:
+        local("Raleway Bold"),
+        url("../fonts/Raleway-Bold.woff2") format("woff2"),
+        url("../fonts/Raleway-Bold.woff") format("woff");
+}
